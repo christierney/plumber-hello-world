@@ -1,4 +1,4 @@
 #* @get /
 root <- function(){
-  paste0("hello, world! (pid: ", Sys.getpid(), ")")
+  paste0("2 world 2 furious! (pid: ", Sys.getpid(), ")")
 }
